@@ -6,3 +6,9 @@ REST-сервис, написанный с помощью Django REST framework.
 ```
 git clone git@github.com:Umiacha/api_final_yatube.git
 ```
+
+Перейдите в директорию проекта:        
+
+```
+cd api_final_yatube
+```
