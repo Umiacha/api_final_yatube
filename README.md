@@ -13,13 +13,13 @@ git clone git@github.com:Umiacha/api_final_yatube.git
 cd api_final_yatube
 ```
 
-Активировать виртуальное окружение:        
+Установить виртуальное окружение:        
 
 ```
 python3 -m venv venv
 ```
 
-И активировать виртуальное окружение (пример для bash):        
+И активировать его (пример для bash):        
 
 ```
 . venv/bin/activate
